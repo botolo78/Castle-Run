@@ -8,7 +8,11 @@ I'm quite sure this implementation is far from acceptable, but it works and it w
 Please check and try the wonderful level editor **LDTK** (https://ldtk.io/) Deepnight is workin on.
 
 
+![Screenshot](art/screens/LDTK.PNG)
+
+
 # Changes
+v0.1
 - Increased player velocity
 - Added hero lifebar
 - Added fallzone (on Trigger for now)
