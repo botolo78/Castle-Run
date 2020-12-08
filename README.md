@@ -31,8 +31,18 @@ v0.1
 
 Please refer to **Deepnight's Gamebase guide** (https://deepnight.net/tutorial/using-my-gamebase-to-create-a-heaps-game/) to buold the game.
 
+To tun the game execute redist\directx\Castle Run\Castle Run.exe
 
+Keyboard controls:
+- Arrows to move and jump
+- Alt to attack
+- Space to throw a key
+- R to restart level
+- ESC to exit the game
 
+Tips:
+- You cannot attack while holding a key
+- You cannot attack while crouching
 
 # Credits
 

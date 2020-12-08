@@ -33,7 +33,8 @@ class Intro extends dn.Process {
 			tw.createMs(root.alpha, 0>1, 1500);
 			text("Thank you for playing :)", 0xffcc00);
 			text("Feel free to check LDTK");
-			text("www.deepnight.net", 0xffffff);
+			text("https://ldtk.io/", 0xffffff);
+			text("- David F.", 0xffffff);
 		}
 
 		dn.Process.resizeAll();
