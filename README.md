@@ -31,8 +31,8 @@ Please refer to **Deepnight's Gamebase guide** (https://deepnight.net/tutorial/u
 
 # Credits
 
-Slime https://rvros.itch.io/pixel-art-animated-slime
-LDTK https://ldtk.io/
-Fort Loop https://github.com/deepnight/ld47
+- LDTK https://ldtk.io/
+- Slime https://rvros.itch.io/pixel-art-animated-slime
+- Fort Loop https://github.com/deepnight/ld47
 
 
