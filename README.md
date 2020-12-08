@@ -14,7 +14,7 @@ Please check and try the wonderful level editor **LDTK** (https://ldtk.io/) Deep
 
 # Changes
 v0.1
-- Increased player velocity
+- Increased player speed
 - Added hero lifebar
 - Added fallzone (on Trigger for now)
 - Added exit stairs
